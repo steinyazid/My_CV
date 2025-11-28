@@ -894,3 +894,7 @@ body.light .project-chip {
 .image_pro {
   cursor: pointer;
 }
+.body.light .meta-item-value strong {
+  color: #111827;
+  font-weight: 500;
+}
