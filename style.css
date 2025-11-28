@@ -768,7 +768,7 @@ body.light .contact-card {
   color: #111316;
 }
 
-body.light .meta-item-value,
+body.light .meta-item-value strong,
 body.light .project-desc,
 body.light .lang-name,
 body.light .hero-stat-value {
