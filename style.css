@@ -197,6 +197,12 @@ header {
   margin-bottom: 0.75rem;
 }
 
+.last {
+  font-size: 0.9rem;
+  color: #d6d9e7;
+  opacity: 1;
+}
+
 .hero-intro-dot {
   width: 20px;
   height: 20px;
@@ -894,7 +900,11 @@ body.light .project-chip {
 .image_pro {
   cursor: pointer;
 }
-.body.light .meta-item-value strong {
+body.light .meta-item-value strong {
   color: #111827;
   font-weight: 500;
+}
+
+body.light .last  {
+  color: #3c51ad;
 }
