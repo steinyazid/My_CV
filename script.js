@@ -63,7 +63,7 @@ const overlayImage = document.getElementById("overlayImage");
 
 // منين تضغط على الصورة الأصلية
 imagePro.addEventListener("click", () => { 
-  overlayImage.src = "./img/profile1.jpg"; 
+  overlayImage.src = "./img/profile1.jpeg"; 
   overlay.classList.add("show");   // نظهر overlay
 });
 
